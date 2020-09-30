@@ -12,7 +12,7 @@
     <li> My interesting one is Web programming.</li>
     <li>Knowledge in:</li>
         <ul>
-            <li> NojeJS </li> <img width="40" height="40" src="public/images/node_js_brand.png">
+            <li> NojeJS <img width="10" height="10" src="public/images/node_js_brand.png"></li>
             <li> HTML/CSS/JS </li>
             <li> MongoDB </li>
             <li> Bulma and Bootstrap</li>
