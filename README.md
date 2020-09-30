@@ -6,13 +6,13 @@
 
 
 
-## About me:
+### About me:
 <ul>
     <li> I am a university student in the Computer System course at Universidade Federal Fluminense / Rio de Janeiro. </li>
     <li> My interesting one is Web programming.</li>
     <li>Knowledge in:</li>
         <ul>
-            <li> NojeJS <img width="10" height="10" src="public/images/node_js_brand.png"></li>
+            <li> NojeJS <img width="25" height="25" src="public/images/node_js_brand.png"></li>
             <li> HTML/CSS/JS </li>
             <li> MongoDB </li>
             <li> Bulma and Bootstrap</li>
