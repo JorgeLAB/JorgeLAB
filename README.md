@@ -2,7 +2,7 @@
 
 # Welcome!
 
-## My name is **Jorge Luís Borges**.Yes, like Argentine writer and poet Jorge Luis Borges!
+## My name is **Jorge Luís Borges**.Yes, like the Argentine writer and poet Jorge Luis Borges!
 
 
 
@@ -12,3 +12,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)[
 
 [![Discord](https://img.shields.io/discord/760987427166748723)](https://discord.gg/zxSwN8Z)
+<iframe src="https://discord.com/widget?id=760987427166748723&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+https://img.shields.io/discord/760987427166748723?color=blue&style=plastic
+
+[![Discord](label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/zxSwN8Z)
