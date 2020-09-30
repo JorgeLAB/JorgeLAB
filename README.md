@@ -13,7 +13,7 @@
     <li>Knowledge in:</li>
         <ul>
             <li> NojeJS <img width="25" height="25" src="public/images/node_js_brand.png"></li>
-            <li> HTML/CSS/JS </li>
+            <li> HTML/CSS/JS <img width="25" height="25" src="public/images/html5_brand.png"> <img width="25" height="25" src="public/images/css3_brand.png"> <img width="25" height="25" src="public/images/js_brand.png"></li>
             <li> MongoDB </li>
             <li> Bulma and Bootstrap</li>
         </ul>
