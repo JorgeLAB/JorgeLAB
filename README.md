@@ -16,12 +16,12 @@
             <li> HTML/CSS/JS <img width="25" height="25" src="public/images/html-5.png"> <img width="25" height="25" src="public/images/css3_brand.png"> <img width="25" height="25" src="public/images/javascript_brand.png"></li>
             <li> MongoDB <img width="60" height="20" src="public/images/mongoDB_brand.png"> </li>
             <li> Bulma and Bootstrap <img width="50" height="20" src="public/images/bulma_brand.png"> <img width="25" height="25" src="public/images/bootstrap_brand.png"></li>
-            <li> React <img width="25" height="25" src="public/images/react_brand.png"> </li>
+            <li> React <img width="15" height="15" src="public/images/react_brand.png"> </li>
             <li> Express framework </li>
         </ul>
     <li>Learning:</li>
     	<ul>
-    		<li>Ruby <img width="25" height="25" src="public/images/ruby_brand.png"> </li>
+    		<li>Ruby <img width="15" height="15" src="public/images/ruby_brand.png"> </li>
     		<li> Ruby on Rails framework</li>
     	</ul>
 </ul>
