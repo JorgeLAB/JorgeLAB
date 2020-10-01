@@ -19,7 +19,7 @@
             <li> NojeJS <img width="15" height="15" src="public/images/nodejs_brand.png"></li>              
             <li> Bulma and Bootstrap <img width="25" height="25" src="public/images/bootstrap_brand.png"></li>
         </ul> 
-    <li> Relation databases: PostgreSQL and MySQL.</li>
+    <li> Relational database: PostgreSQL and MySQL.</li>
     <li> Systems: GNU/Linux, shellscript </li>
     <li>Learning:</li>
     	<ul>
