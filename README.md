@@ -1,8 +1,9 @@
-<img align="right" width="400" height="600" src="public/images/vista-do-morro-do-corcovado-brasil.jpg">
 
 # Welcome!
 
 ## My name is **Jorge Borges**.
+
+<img align="right" width="400" height="400" src="public/images/vista-do-morro-do-corcovado-brasil.jpg">
 
 
 ### About me:
