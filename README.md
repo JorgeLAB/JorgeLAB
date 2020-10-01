@@ -14,7 +14,7 @@
         <ul>
             <li> NojeJS <img width="25" height="25" src="public/images/nodejs_brand.png"></li>
             <li> HTML/CSS/JS <img width="25" height="25" src="public/images/html-5.png"> <img width="25" height="25" src="public/images/css3_brand.png"> <img width="25" height="25" src="public/images/javascript_brand.png"></li>
-            <li> MongoDB <img width="50" height="40" src="public/images/mongoDB_brand.png"> </li>
+            <li> MongoDB <img width="60" height="20" src="public/images/mongoDB_brand.png"> </li>
             <li> Bulma and Bootstrap <img width="50" height="20" src="public/images/bulma_brand.png"> <img width="25" height="25" src="public/images/bootstrap_brand.png"></li>
         </ul>
 </ul>
