@@ -1,6 +1,6 @@
 
 # Welcome to my github!
-<img align="right" width="500" height="400" src="public/images/vista-do-morro-do-corcovado-brasil.jpg">
+<img align="right" width="400" height="400" src="public/images/vista-do-morro-do-corcovado-brasil.jpg">
 
 ## I'm **Jorge Borges**.
 
