@@ -12,10 +12,10 @@
     <li>Knowledge in MERN stack:</li>
         <ul>              
             <li> HTML/CSS/JS <img width="25" height="25" src="public/images/html-5.png"> <img width="25" height="25" src="public/images/css3_brand.png"> <img width="25" height="25" src="public/images/javascript_brand.png"></li>
-            <li> NojeJS <img width="25" height="25" src="public/images/nodejs_brand.png"></li>  
             <li> MongoDB </li>
-            <li> React <img width="15" height="15" src="public/images/react_brand.png"> </li>
             <li> Express framework </li>
+            <li> React <img width="15" height="15" src="public/images/react_brand.png"> </li>
+            <li> NojeJS <img width="15" height="15" src="public/images/nodejs_brand.png"></li>              
             <li> Bulma and Bootstrap <img width="25" height="25" src="public/images/bootstrap_brand.png"></li>
         </ul> 
     <li> Relation databases: PostgreSQL and MySQL.</li>
