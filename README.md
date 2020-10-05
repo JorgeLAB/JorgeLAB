@@ -13,14 +13,10 @@
 - HTML/CSS/JS <img width="25" height="25" src="public/images/html-5.png"> <img width="25" height="25" src="public/images/css3_brand.png"> <img width="25" height="25" src="public/images/javascript_brand.png"> 
 - SASS <img width="15" height="15" src="public/images/sass_brand.png">
 - MongoDB
-
-Express framework
-
-React <img width="15" height="15" src="public/images/react_brand.png">
-
-NojeJS <img width="15" height="15" src="public/images/nodejs_brand.png">
-
-Bulma and Bootstrap <img width="25" height="25" src="public/images/bootstrap_brand.png">
+* Express framework
+* React <img width="15" height="15" src="public/images/react_brand.png">
+* NojeJS <img width="15" height="15" src="public/images/nodejs_brand.png">
+* Bulma and Bootstrap <img width="25" height="25" src="public/images/bootstrap_brand.png">
 
 ##### Relational database: PostgreSQL and MySQL.
 ##### Systems: GNU/Linux, shellscript 
