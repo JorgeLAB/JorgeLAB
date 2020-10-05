@@ -11,11 +11,9 @@
 
 ##### Knowledge in MERN stack:
 
-HTML/CSS/JS <img width="25" height="25" src="public/images/html-5.png"> <img width="25" height="25" src="public/images/css3_brand.png"> <img width="25" height="25" src="public/images/javascript_brand.png">
-
-SASS <img width="15" height="15" src="public/images/sass_brand.png">
-
-MongoDB
+HTML/CSS/JS <img width="25" height="25" src="public/images/html-5.png"> <img width="25" height="25" src="public/images/css3_brand.png"> <img width="25" height="25" src="public/images/javascript_brand.png"> ··
+SASS <img width="15" height="15" src="public/images/sass_brand.png"> ··
+MongoDB ··
 
 Express framework
 
