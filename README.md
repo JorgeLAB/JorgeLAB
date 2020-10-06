@@ -13,7 +13,7 @@
 - MongoDB
 - Express framework
 - React <img width="15" height="15" src="public/images/react_brand.png">
-- NojeJS <img width="15" height="15" src="public/images/nodejs_brand.png">
+- NodeJS <img width="15" height="15" src="public/images/nodejs_brand.png">
 - Bulma and Bootstrap <img width="25" height="25" src="public/images/bootstrap_brand.png">
 
 ##### Relational database: PostgreSQL and MySQL.
