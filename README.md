@@ -1,5 +1,5 @@
 # I'm **Jorge Borges**
-<img align="right" width="400" height="400" src="public/images/forestGump.gif">
+<img align="right" width="400" height="400" src="public/images/MrBean.gif">
 
 ### About me:
 
