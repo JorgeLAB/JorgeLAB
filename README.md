@@ -1,5 +1,4 @@
 # <img src="public/images/hand.png" width="30px"> I'm **Jorge Borges**
-<img align="right" width="400" height="400" src="public/images/vista-do-morro-do-corcovado-brasil.jpg">
 
 ### About me:
 
