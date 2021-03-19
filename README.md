@@ -2,11 +2,11 @@
 
 ### About me:
 
-##### I am a university student in the Computer System course at Universidade Federal Fluminense / Rio de Janeiro. 
+#### I am a university student in the Computer System course at Universidade Federal Fluminense / Rio de Janeiro. 
     
-##### My interest is in Web programming.
+#### My interest is in Web programming.
 
-##### Knowledge in MERN stack:
+### Knowledge in MERN stack:
 - HTML/CSS/JS <img width="25" height="25" src="public/images/html-5.png"> <img width="25" height="25" src="public/images/css3_brand.png"> <img width="25" height="25" src="public/images/javascript_brand.png"> 
 - SASS <img width="15" height="15" src="public/images/sass_brand.png">
 - MongoDB
@@ -15,9 +15,9 @@
 - NodeJS <img width="15" height="15" src="public/images/nodejs_brand.png">
 - Bulma and Bootstrap <img width="25" height="25" src="public/images/bootstrap_brand.png">
 
-##### Relational database: PostgreSQL and MySQL.
-##### Systems: GNU/Linux, shellscript 
-##### Learning:
+#### Relational database: PostgreSQL and MySQL.
+#### Systems: GNU/Linux, shellscript 
+#### Learning:
 - Ruby <img width="15" height="15" src="public/images/ruby_brand.png">
 - Ruby on Rails framework
 
