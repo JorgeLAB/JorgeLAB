@@ -18,16 +18,22 @@
     <a href="https://github.com/JorgeLAB" target="_blank"><img alt="Code"
        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
     </a>
-    <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
+    <a href="https://github.com/JorgeLAB" target="_blank"><img alt="Linkedin"
        src="https://img.shields.io/badge/-JorgeBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-borges-90965121a/">
     </a>
-    <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
+    <a href="https://github.com/JorgeLAB" target="_blank"><img alt="Gmail"
       src="https://img.shields.io/badge/-jorgeborgesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgeborgesdev@gmail.com">
      </a>
      <br>
   <!-- Informations -->
-    <p align="center"> I've been busy coding ruby at the company I work for ⚡ <a href='https://www.iugu.com/'>iugu</a> and watching not-so-old movies eating popcorn.I sleep early, drink little coffee and i use sublime text. I'm dev o/ </p>
-
+    <h2 align="right"> 
+      I've been busy coding ruby at the company 
+      I work for ⚡ <a href='https://www.iugu.com/'>iugu</a> and watching not-so-old movies eating popcorn.
+      I sleep early, drink little coffee and i use sublime text. 
+      I'm dev o/ 
+    </h2>
+    <br>
+    <br>
 <p align="center">
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this site to get logos: https://www.vectorlogo.zone
@@ -57,8 +63,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img width="10%" src="https://rubyonrails.org/images/rails-logo.svg"></code>
 </p>
-        
-
 
 <!-- Details Section-->
 <details align="center">
