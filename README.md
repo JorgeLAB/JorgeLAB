@@ -19,7 +19,7 @@
        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
     </a>
     <a href="https://github.com/JorgeLAB" target="_blank"><img alt="Linkedin"
-       src="https://img.shields.io/badge/-JorgeBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-borges-90965121a/">
+       src="https://img.shields.io/badge/-JorgeBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-borges-90965121a">
     </a>
     <a href="https://github.com/JorgeLAB" target="_blank"><img alt="Gmail"
       src="https://img.shields.io/badge/-jorgeborgesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgeborgesdev@gmail.com">
