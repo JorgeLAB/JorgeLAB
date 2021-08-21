@@ -23,7 +23,10 @@
     </a>
     <a href="https://github.com/JorgeLAB" target="_blank"><img alt="Gmail"
       src="https://img.shields.io/badge/-jorgeborgesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgeborgesdev@gmail.com">
-     </a>
+    </a>
+    <a href="https://www.freecodecamp.org/jorgeandrade" target="_blank"><img alt="FreeCodeCamp"
+      src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat-square&logo=freecodecamp&logoColor=green">
+    </a>
      <br>
   <!-- Informations -->
     <h2 align="center"> 
