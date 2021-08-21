@@ -30,7 +30,7 @@
       I've been busy coding ruby at the company 
       I work for ⚡ <a href='https://www.iugu.com/'>iugu</a> and watching not-so-old movies eating popcorn.
       I sleep early, drink little coffee and i use sublime text. 
-      I'm dev o/ 
+      I'm a dev o/ 
     </h2>
     <br>
     <br>
