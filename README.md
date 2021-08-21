@@ -18,53 +18,47 @@
     <a href="https://github.com/JorgeLAB" target="_blank"><img alt="Code"
        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
     </a>
-        <!-- HTML -->
-        <a href="https://github.com/JorgeLAB" target="_blank"><img alt="HTML"
-          src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-        </a>
-        <!-- CSS  -->
-        <a href="https://github.com/JorgeLAB" target="_blank"><img alt="CSS"
-          src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-        </a>
-        <!--Bootstrap -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
-           src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap">
-        </a>
-        <!--Bulma -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
-           src="https://img.shields.io/badge/-Bulma-181717?style=flat-square&logo=bulma">
-        </a>
-        <!-- JavaScript -->
-        <a href="https://github.com/JorgeLAB" target="_blank"><img alt="JavaScript"
-          src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-        </a>
-        <!-- Nodejs -->
-        <a href="https://github.com/JorgeLAB" target="_blank"><img alt="Nodejs"
-          src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=white">
-        </a>
-        <!-- React -->
-        <a href="https://github.com/JorgeLAB" target="_blank"><img alt="JavaScript"
-          src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white">
-        </a>   
-        <!-- Ruby -->
-        <a href="https://github.com/JorgeLAB" target="_blank"><img alt="Ruby"
-           src="https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=Ruby&logoColor=white">
-        </a>
-        <!-- Ruby on rails -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
-           src="https://img.shields.io/badge/-Rails-9b3675?style=flat-square&logo=Rails%2B%2B&logoColor=white">
-        </a>
-        <!--Python -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
-           src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
-        </a>
-        
-<p>I've been busy coding ruby at the company I work for ⚡ <a href='https://www.iugu.com/'>iugu</a> and watching not-so-old movies eating popcorn.I sleep early, drink little coffee and i use sublime text. I'm dev o/ </p>
+    <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
+       src="https://img.shields.io/badge/-JorgeBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-borges-90965121a/">
+    </a>
+    <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
+      src="https://img.shields.io/badge/-jorgeborgesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgeborgesdev@gmail.com">
+     </a>
+     <br>
+  <!-- Informations -->
+    <p align="center"> I've been busy coding ruby at the company I work for ⚡ <a href='https://www.iugu.com/'>iugu</a> and watching not-so-old movies eating popcorn.I sleep early, drink little coffee and i use sublime text. I'm dev o/ </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-JorgeBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Gmail Badge](https://img.shields.io/badge/-jorgeborgesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:jorgeborgesdev@gmail.com)
+<p align="center">
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this site to get logos: https://www.vectorlogo.zone
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img width="10%" src="https://rubyonrails.org/images/rails-logo.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
         
-<img width="200" height="250" src="public/images/cat_coding.gif">
+
 
 <!-- Details Section-->
 <details align="center">
