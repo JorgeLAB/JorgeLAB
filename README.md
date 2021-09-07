@@ -87,6 +87,6 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Happy Coding :shipit:!"
+        "The end"
     </p>
 </samp>
