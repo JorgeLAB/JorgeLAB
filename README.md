@@ -30,7 +30,7 @@
      <br>
   <!-- Informations -->
     <h2 align="center"> 
-      I've been busy coding ruby at the company 
+      I've been busy coding in ruby at the company 
       I work for ⚡ <a href='https://www.iugu.com/'>iugu</a> and watching not-so-old movies eating popcorn.
       I sleep early, drink little coffee and i use sublime text. 
       I'm a dev o/ 
